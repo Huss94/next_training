@@ -1,0 +1,10 @@
+.my_image{
+    display: block;
+}
+
+@media (max-width : 768px){
+    .my_image{
+        display: none;
+    }
+    
+}
